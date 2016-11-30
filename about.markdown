@@ -5,11 +5,10 @@ author: Ankit Sultana
 permalink: /about
 ---
 
-Hi! My name is yourname!
+Hi! My name is John!
 
-> One shalt not speak shakespearean, or brocolli McDonalds
+> Specialized in building interactive prototypes in JS, HTML5
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Recently I worked as a software engineer at <ins>Twenty Media</ins> (a concise summaries media startup that provides information for students in their twenties).
 
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Before joining Twenty, I co-founded <ins>Code for Designers</ins> (a community that teaches code for graphic designers) and I helped teach front-end code to Korean graphic designers in order to help develop their working relationship with software engineers.
