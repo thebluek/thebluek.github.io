@@ -2,3 +2,11 @@ _site
 .sass-cache
 .jekyll-metadata
 .idea/*
+_posts/2016-02-10-example-content.markdown
+_posts/2016-02-10-guest-posts.markdown
+_posts/2016-02-10-testing.markdown
+_posts/2016-02-10-welcome-to-jekyll.markdown
+_posts/2016-02-11-documentation.markdown
+_posts/2016-02-11-features.markdown
+.DS_Store
+.idea/
