@@ -6,6 +6,7 @@ git branch
 {% endhighlight %}
 
 *feature/fragment
+
 master
 
 {% highlight bash %}
@@ -20,13 +21,15 @@ git branch
 {% endhighlight %}
 
 feature/readme
-* master
+
+*master
 
 {% highlight bash %}
 git branch
 {% endhighlight %}
 
 *feature/readme
+
 master
 
 {% highlight bash %}
@@ -44,14 +47,15 @@ git branch
 {% endhighlight %}
 
 feature/readme
-* master
+*master
 
 {% highlight bash %}
 git checkout feature/readme
 git branch
 {% endhighlight %}
 
-* feature/readme
+*feature/readme
+
 master
 
 {% highlight bash %}
@@ -79,7 +83,8 @@ git push origin feature/readme
 git branch
 {% endhighlight %}
 
-* feature/readme
+*feature/readme
+
 master
 
 {% highlight bash %}
